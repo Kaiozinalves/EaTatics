@@ -1,6 +1,6 @@
-# EATechs 🎮
+# EATatics 🎮
 
-EATechs is an AI-powered platform for EA FC players that unifies tactical microlearning, transfer market monitoring, and team matchmaking. This repository contains the academic project developed for the Detailed Software Design course at IMD - UFRN.
+EATatics is an AI-powered platform for EA FC players that unifies tactical microlearning, transfer market monitoring, and team matchmaking. This repository contains the academic project developed for the Detailed Software Design course at IMD - UFRN.
 
 ---
 
@@ -21,12 +21,9 @@ O objetivo do sistema é unificar as informações dispersas da comunidade e uti
 * Spring Boot (Spring Web, Spring Data JPA)
 * PostgreSQL
 
-**Integrações (APIs):**
-* Gemini 1.5 API (Motor de IA para Matchmaking e Microlearning)
-* YouTube Data API V3 (Curadoria de Mídia)
 
 **Front-end:**
-* React.js (com Tailwind CSS/MUI) - *Em desenvolvimento*
+* React.js 
 
 ## 📅 Cronograma de Sprints (MVP)
 
